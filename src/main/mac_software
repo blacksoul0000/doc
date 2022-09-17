@@ -1,0 +1,20 @@
+Keka  解压缩软件，官网下载
+
+CheatSheet  一键显示当前软件的所有快捷键，并可直接按下执行
+
+Snipaste  贴图工具
+
+IINA 视频播放器
+
+MOS 鼠标优化，可调节滚轮方向，滚动顺滑程度
+
+超级右键(AppStore)
+
+Copy+(AppStore) 实用的粘贴板
+
+边缘角  一键锁屏
+
+日历 Itsycal
+defaults write com.apple.Dock showhidden -bool TRUE; killall Dock          TRUE可以置为FALSE   command+H 隐藏某软件后 虚化软件图标
+
+command + shift + .就能直接在 Finder 里显示隐藏文件
